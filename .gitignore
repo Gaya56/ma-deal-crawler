@@ -1,0 +1,10 @@
+.env
+mcp-crawl4ai-rag/.env
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.vscode/mcp.json
+.gemini/
+.envrc
